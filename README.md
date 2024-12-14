@@ -27,7 +27,7 @@ Active : https://github-readme-stats.vercel.app/api?username=sudillakindu&show_i
 
 ## 🧑‍💻 Languages and Tools
 
-- C , Java , SQL
+- C , Java , SQL , C# , HTML , PHP , CSS
 
 - Microsoft Excel , Microsoft Word , Microsoft PowerPoint , Microsoft Access
 - Adobe Photoshop

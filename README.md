@@ -113,7 +113,7 @@
 
 ### **Frontend Development**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark" alt="Frontend Technologies">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,tailwind,bootstrap&theme=dark" alt="Frontend Technologies">
 </div>
 
 ### **Backend Development**
